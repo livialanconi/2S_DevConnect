@@ -1,58 +1,60 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <head>
-       <meta charset="UTF-8">
-       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <meta name="author" content="Lívia Lançoni">
-       <meta name="description" content="Site da empresa DevConnect">
 
-       <title>Tela login - DevConnect</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Lívia Lançoni">
+    <meta name="description" content="Site da empresa DevConnect">
 
-       <link rel="shortcut icon" href="../images/DevConnect 3.svg" type="image/x-icon">
+    <title>Tela login - DevConnect</title>
 
-       <!-- CSS -->
-       <link rel="stylesheet" href="../styles/global.css">
-       <link rel="stylesheet" href="../styles/login.css">
+    <link rel="shortcut icon" href="../images/DevConnect 3.svg" type="image/x-icon">
 
-    </head>
+    <!-- CSS -->
+    <link rel="stylesheet" href="../styles/global.css">
+    <link rel="stylesheet" href="../styles/login.css">
 
-    <body>
-        <h1>Tela principal login</h1>
-        <main>
-            <div>
-                <form id="formulario" class="estilo-formulario">
-                    <img src="../images/DevConnect.svg" alt="">
-                    <div>
-                        <label for=""></label>
-                        <input type="text" name="" id="">
-                    </div>
-                      
-                    <div>
-                        <label for=""></label>
-                        <input type="password" name="" id="">
-                    </div>
+</head>
 
-                    <button type="submit">Entrar</button>
+<body>
+    <h1>Tela principal login</h1>
+    <main>
+        <div>
+            <form id="formulario" class="estilo-formulario">
+                <img src="../images/DevConnect.svg" alt="">
+                <div>
+                    <label for="">Nome de usuário:</label>
+                    <input type="text" name="" id="">
+                </div>
 
-                    <p>ou</p>
+                <div>
+                    <label for="">Senha:</label>
+                    <input type="password" name="" id="">
+                </div>
 
-                    <a href="http://">Esqueceu a senha?</a>
+                <button type="submit" class="formulario-botao-rosa">Entrar</button>
 
-                </form>
+                <p>ou</p>
 
-                <section id="secao-cadastro" class="estilo-formulario">
-                    <p>Não tem uma conta? <span>Cadastre-se</p>
-                </section>
+                <a href="http://">Esqueceu a senha?</a>
 
-                    <p class="informacao-aplicativo">Obtenha o aplicativo.</p>
+            </form>
 
-                <section>
-                    <section id="secao-instalacao">
+            <section id="secao-cadastro" class="estilo-formulario">
+                <p>Não tem uma conta? <a href="../pages/cadastro.html">Cadastre-se</a></p>
+            </section>
+
+            <p class="informacao-aplicativo">Obtenha o aplicativo.</p>
+
+            <section>
+                <section id="secao-instalacao">
                     <img src="../images/app-store.svg" alt="Imagem Informando para baixar no app store.">
                     <img src="../images/google-play.svg" alt="Imagem Informando para baixar no google play.">
                 </section>
 
-            </div>
-        </main>
-    </body>
+        </div>
+    </main>
+</body>
+
 </html>

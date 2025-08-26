@@ -1,11 +1,12 @@
-main {
+main{
+    background-color: #ececec;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-main>div {
+main > div {
     width: 90%;
     display: flex;
     gap: 15px;
@@ -23,7 +24,7 @@ main>div {
     gap: 15px;
 }
 
-#secao-cadastro {
+#secao-login {
     height: 60px;
     display: flex;
     justify-content: center;
@@ -37,7 +38,7 @@ main>div {
     background-color: var(--cor-branco);
 }
 
-#formulario  > div{
+#formulario > div{
     width: 100%;
 }
 
@@ -53,34 +54,48 @@ main>div {
 }
 
 #formulario > p{
-    text-transform: uppercase;
     font-size: var(--tamanho-fonte-sm);
     color: var(--cor-cinza-escuro);
 }
 
-#formulario > a, #secao-cadastro > p > a{
+#fomulario > a, #secao-login > p > a{
     text-decoration: none;
     color: var(--cor-roxo);
 }
 
-#secao-cadastro > p{
+#secao-login > p{
     font-size: var(--tamanho-fonte-md);
 }
 
-.informacao-aplicativo {
+#texto-upload{
+    border: var(--borda);
+    width: 100%;
+    max-width: 340px;
+    background-color: var(--cor-rosa2);
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-cinza-escuro);
+    font-weight: 500;
+    padding-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+#campo-upload{
+    display: none; /*esconde*/
+}
+
+.concordar-termos{
     font-size: var(--tamanho-fonte-sm);
     color: var(--cor-preto);
     font-weight: 400;
 }
 
-#secao-instalacao {
+#secao-login{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 10px;
-}
 
-#secao-instalacao img {
-    width: 133px;
-    height: 39px;
 }

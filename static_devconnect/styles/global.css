@@ -2,13 +2,16 @@
 
 :root{
     --cor-preto: #000000;
-    --cor-rosa-claro: #ffe3ff;
-    --cor-rosa-escuro: #E8A1DE;
+    --cor-rosa-claro: #ffd4ff;
+    --cor-rosa-escuro: #eca4e2f3;
     --cor-roxo: #9380C9;
     --cor-verde: #4291A1;
     --cor-branco: #FFFFFF;
     --cor-cinza: #ececec;
     --cor-cinza-claro: #dadada;
+    --cor-cinza-escuro: #5E5E5E;
+    --cor-roxo: #8C3480;
+    --cor-rosa2: #db92ca;
 
     --borda: 1px solid var(--cor-cinza-claro);
     --borda-arredondada: 2px;
@@ -43,4 +46,15 @@ input{
     height: 35px;
     border: var(--borda);
     background-color: var(--cor-cinza);
+}
+
+.formulario-botao-rosa{
+    background-color: var(--cor-rosa-escuro);
+    border-radius: var(--borda-arredondada);
+    border: none;
+    height: 35px;
+
+    color: var(--cor-branco);
+    font-size: var(--tamanho-fonte-sm);
+    font-weight: 600;
 }
