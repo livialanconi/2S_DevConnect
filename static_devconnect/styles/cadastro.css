@@ -82,20 +82,8 @@ main > div {
     height: 40px;
 }
 
-#campo-upload{
-    display: none; /*esconde*/
-}
-
 .concordar-termos{
     font-size: var(--tamanho-fonte-sm);
     color: var(--cor-preto);
     font-weight: 400;
-}
-
-#secao-login{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-
 }

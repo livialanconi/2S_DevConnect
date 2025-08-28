@@ -12,8 +12,13 @@
     --cor-cinza-escuro: #5E5E5E;
     --cor-roxo: #8C3480;
     --cor-rosa2: #db92ca;
+    --cor-cinza1: #DBDBDB;
+    --cor-roxa-clara: #695A93;
+    --cor-cinza2: #efefef;
+    --cor-roxo2: #a397c7;
+    --cor-lilas: #c1b7de;
 
-    --borda: 1px solid var(--cor-cinza-claro);
+    --borda: 3px solid var(--cor-cinza1);
     --borda-arredondada: 2px;
 
     --tamanho-fonte-lg: 20px;
@@ -41,6 +46,12 @@ h1{
 }
 
 /*formulario*/
+.estilo-formulario {
+    border: var(--borda);
+    width: 100%;
+    background-color: var(--cor-branco);
+}
+
 input{
     width: 100%;
     height: 35px;
@@ -58,3 +69,88 @@ input{
     font-size: var(--tamanho-fonte-sm);
     font-weight: 600;
 }
+
+#campo-upload{
+    display: none; /*esconde*/
+}
+
+#texto-upload{
+    border: var(--borda);
+    width: 100%;
+    max-width: 340px;
+    background-color: var(--cor-lilas);
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-cinza-escuro);
+    font-weight: 500;
+    padding-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+#secao-login{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+
+}
+/* cabeçalho */
+
+#cabecalho{
+    width: 100%;
+    height: 80px;
+    background-color: #fffffff6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: var(--borda);
+}
+
+#cabecalho > nav{
+    /* background-color: #922a7a; */
+    width: 85%;
+    max-width: 1440px;
+    height: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo-mobile{
+    display: none;
+}
+
+.cabecalho-acoes{
+    /* background-color: #e27380; */
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.cabecalho-acoes > a{
+    display: flex;
+    align-items: center;
+}
+
+#foto-perfil{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+/* RESPONSIVO */
+@media only screen and (max-width: 485px) {
+    #logo-mobile{
+        display: initial;
+    }
+    #logo-desktop{
+        display: none;
+    }
+}
+
+
