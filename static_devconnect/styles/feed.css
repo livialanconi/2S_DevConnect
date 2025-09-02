@@ -12,7 +12,6 @@ main {
     background-color: var(--cor-cinza);
     width: 90%;
     max-width: 1000px;
-    height: 700px;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -29,11 +28,11 @@ main {
     overflow: scroll;
 }
 
-#storys::-webkit-scrollbar{
+#storys::-webkit-scrollbar {
     width: 0;
 }
 
-.card-story{
+.card-story {
     /* width: 100%;
     max-width: 100px; */
     /*background-color: beige;*/
@@ -65,20 +64,20 @@ main {
 }
 
 /* seção criar publi */
-#cadastro-publi{
+#cadastro-publi {
     display: flex;
     flex-direction: column;
     gap: 30px;
     padding: 10px;
 }
 
-#cadastro-publi > h2{
+#cadastro-publi>h2 {
     font-size: var(--tamanho-fonte-lg);
     color: var(--cor-roxa-clara);
     font-weight: 800
 }
 
-#cadastro-publi > form > textarea{
+#cadastro-publi>form>textarea {
     width: 100%;
     height: 80px;
     background-color: var(--cor-cinza2);
@@ -86,4 +85,111 @@ main {
     padding: 10px;
     color: var(--cor-cinza-escuro);
     font-size: var(--tamanho-fonte-sm);
+    border: var(--borda);
+}
+
+#cadastro-publi>form>textarea::placeholder {
+    color: #CCCCCC;
+}
+
+#cadastro-publi>form>footer {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.formulario-botao-roxo {
+    width: 100%;
+    max-width: 135px;
+
+}
+
+#publicacoes {
+    background-color: aquamarine;
+    width: 100%;
+    height: 600px;
+}
+
+.card-publi {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+}
+
+.card-publi>header {
+    /* height: 80px; */
+    display: flex;
+    align-items: center;
+    padding: 3%;
+}
+
+.card-publi>header>a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.card-publi>figure {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+}
+
+.imagem-publicacao {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 550px;
+}
+
+.descricao-publicacao {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: var(--tamanho-fonte-md);
+    font-weight: 500;
+    padding: 0 3%;
+    order: 2;
+}
+
+.descricao-publicacao>p {
+    font-size: var(--tamanho-fonte-sm);
+    font-weight: 400;
+}
+
+.interacoes-publicacao {
+    background-color: blue;
+    width: 75px;
+    display: flex;
+    gap: 5px;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    order: 1;
+    margin: 15px 3%;
+
+}
+
+.interacoes-publicacao>button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.interacoes-publicacao > span {
+    font-size: var(--tamanho-fonte-sm);
+    font-weight: 600;
+    color: var(--cor-preto);
+}
+
+.card-publi > button{
+    margin: 15px 3%;
+
 }
