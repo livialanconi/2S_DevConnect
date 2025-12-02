@@ -1,0 +1,24 @@
+@* Importa a model da fruta *@
+
+@model CadAlunoTorloni.Models.Fruta
+
+<h1>Cadastro de Fruta</h1>
+
+@* Criar o formulário de cadastro de fruta *@
+<form asp-action="Create" method="post">
+<label>Nome:</label>
+<input asp-for="Nome" class="from-control">
+
+<br>
+<label>Cor:</label>
+<input asp-for="Cor" class="from-control">
+
+<br>
+<label>Categoria:</label>
+<input asp-for="Categoria" class="from-control">
+
+<br>
+<br>
+<button class="btn btn-sucess">Salvar</button>
+
+</form>
