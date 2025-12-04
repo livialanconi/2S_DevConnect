@@ -1,259 +1,455 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevConnectTorloni.bundle.scp.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevConnectTorloni.bundle.scp.css",
       "PackagePath": "staticwebassets\\DevConnectTorloni.7075eiujtn.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\css\\feed.css",
+      "PackagePath": "staticwebassets\\css\\feed.css"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\css\\global.css",
+      "PackagePath": "staticwebassets\\css\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\css\\perfil.css",
+      "PackagePath": "staticwebassets\\css\\perfil.css"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\1744867899-virginia-instagram.webp",
+      "PackagePath": "staticwebassets\\images\\1744867899-virginia-instagram.webp"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\404607255_628367226174855_7419003782355206768_n.webp",
+      "PackagePath": "staticwebassets\\images\\404607255_628367226174855_7419003782355206768_n.webp"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\54331642772_05fa9ffe6b_o_dentro.jpg",
+      "PackagePath": "staticwebassets\\images\\54331642772_05fa9ffe6b_o_dentro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\DevConnect 2.svg",
+      "PackagePath": "staticwebassets\\images\\DevConnect 2.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\DevConnect 3.svg",
+      "PackagePath": "staticwebassets\\images\\DevConnect 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\DevConnect.svg",
+      "PackagePath": "staticwebassets\\images\\DevConnect.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\Duda-Freire.jpg",
+      "PackagePath": "staticwebassets\\images\\Duda-Freire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\IMG_0481.JPG",
+      "PackagePath": "staticwebassets\\images\\IMG_0481.JPG"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\Rezende.webp",
+      "PackagePath": "staticwebassets\\images\\Rezende.webp"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\Verificado.png",
+      "PackagePath": "staticwebassets\\images\\Verificado.png"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\WhatsApp Image 2025-08-28 at 11.37.48.jpeg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2025-08-28 at 11.37.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\app-store.svg",
+      "PackagePath": "staticwebassets\\images\\app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\botao casinha verde 2.svg",
+      "PackagePath": "staticwebassets\\images\\botao casinha verde 2.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\botao casinha verde.svg",
+      "PackagePath": "staticwebassets\\images\\botao casinha verde.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\botao casinha.svg",
+      "PackagePath": "staticwebassets\\images\\botao casinha.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\botao comentario.svg",
+      "PackagePath": "staticwebassets\\images\\botao comentario.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\botao coracao verde 2.svg",
+      "PackagePath": "staticwebassets\\images\\botao coracao verde 2.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\botao coracao verde.svg",
+      "PackagePath": "staticwebassets\\images\\botao coracao verde.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\botao coração.svg",
+      "PackagePath": "staticwebassets\\images\\botao coração.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\botao-comentario-verde.svg",
+      "PackagePath": "staticwebassets\\images\\botao-comentario-verde.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\channels4_profile.jpg",
+      "PackagePath": "staticwebassets\\images\\channels4_profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\familia-virginia-fonseca_widelg.jpg",
+      "PackagePath": "staticwebassets\\images\\familia-virginia-fonseca_widelg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\fluent_table-28-regular.svg",
+      "PackagePath": "staticwebassets\\images\\fluent_table-28-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\foto perfil pequena.svg",
+      "PackagePath": "staticwebassets\\images\\foto perfil pequena.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\google-play.svg",
+      "PackagePath": "staticwebassets\\images\\google-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-casa-azul.svg",
+      "PackagePath": "staticwebassets\\images\\icone-casa-azul.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-casa-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-casa-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-comentario-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-comentario-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-coracao-azul.svg",
+      "PackagePath": "staticwebassets\\images\\icone-coracao-azul.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-coracao-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-coracao-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-galeria-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-galeria-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-publicacoes.svg",
+      "PackagePath": "staticwebassets\\images\\icone-publicacoes.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\imagem-do-whatsapp-de-2024-09-19-a-s-16.30.53-0bc34827.avif",
+      "PackagePath": "staticwebassets\\images\\imagem-do-whatsapp-de-2024-09-19-a-s-16.30.53-0bc34827.avif"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\images (1).jpg",
+      "PackagePath": "staticwebassets\\images\\images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\images (2).jpg",
+      "PackagePath": "staticwebassets\\images\\images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\images (3).jpg",
+      "PackagePath": "staticwebassets\\images\\images (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\images (4).jpg",
+      "PackagePath": "staticwebassets\\images\\images (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\images (5).jpg",
+      "PackagePath": "staticwebassets\\images\\images (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\images (6).jpg",
+      "PackagePath": "staticwebassets\\images\\images (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect-lg.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-lg.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect-md.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-md.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect-sm.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\post-gabigordo.svg",
+      "PackagePath": "staticwebassets\\images\\post-gabigordo.svg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\snapinsta.app-446916822-865475928953465-9143834970113523056-n-1080.avif",
+      "PackagePath": "staticwebassets\\images\\snapinsta.app-446916822-865475928953465-9143834970113523056-n-1080.avif"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

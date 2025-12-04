@@ -240,3 +240,14 @@ main {
 
 
 @media only screen and (max-width: 444px)
+{
+  .nome-user{
+      justify-content: center;
+    }
+    #editar-sair-perfil {
+      justify-content: center;
+    }
+    #infos-seguidores {
+      justify-content: center;
+    }
+    }

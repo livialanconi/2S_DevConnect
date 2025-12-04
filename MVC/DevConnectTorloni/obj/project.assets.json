@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\DevConnectTorloni.csproj",
+      "projectUniqueName": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\DevConnectTorloni.csproj",
       "projectName": "DevConnectTorloni",
-      "projectPath": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\DevConnectTorloni.csproj",
+      "projectPath": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\DevConnectTorloni.csproj",
       "packagesPath": "C:\\Users\\42113437856\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\42113437856\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\",
+      "outputPath": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\42113437856\\AppData\\Roaming\\NuGet\\NuGet.Config"

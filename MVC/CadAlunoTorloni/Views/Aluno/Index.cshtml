@@ -1,0 +1,14 @@
+@model List<CadAlunoTorloni.Models.Aluno>
+
+<h1>Página de Alunos</h1>
+
+<h2>Lista de Alunos</h2>
+
+@foreach(var aluno in Model) {
+    <p>
+    <strong>Id:</strong> @aluno.Id;
+    <strong>Nome:</strong> @aluno.Nome; 
+    <strong>Idade:</strong> @aluno.Idade;
+    <strong>Cpf:</strong> @aluno.Cpf;
+    </p>
+}
