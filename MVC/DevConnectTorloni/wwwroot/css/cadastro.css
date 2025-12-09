@@ -1,0 +1,89 @@
+main{
+    background-color: #ececec;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main > div {
+    width: 90%;
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+/* formulario */
+#formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3%;
+    gap: 15px;
+}
+
+#secao-login {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.estilo-formulario {
+    border: var(--borda);
+    width: 100%;
+    max-width: 340px;
+    background-color: var(--cor-branco);
+}
+
+#formulario > div{
+    width: 100%;
+}
+
+#formulario > div > label{
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-cinza-escuro);
+    font-weight: 500;
+    padding-bottom: 4px;
+}
+
+.formulario-botao-rosa{
+    width: 100%;
+}
+
+#formulario > p{
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-cinza-escuro);
+}
+
+#fomulario > a, #secao-login > p > a{
+    text-decoration: none;
+    color: var(--cor-roxo);
+}
+
+#secao-login > p{
+    font-size: var(--tamanho-fonte-md);
+}
+
+#texto-upload{
+    border: var(--borda);
+    width: 100%;
+    max-width: 340px;
+    background-color: var(--cor-rosa2);
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-cinza-escuro);
+    font-weight: 500;
+    padding-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+.concordar-termos{
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-preto);
+    font-weight: 400;
+}

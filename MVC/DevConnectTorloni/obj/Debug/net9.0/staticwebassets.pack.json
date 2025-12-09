@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\DevConnectTorloni.7075eiujtn.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\css\\cadastro.css",
+      "PackagePath": "staticwebassets\\css\\cadastro.css"
+    },
+    {
       "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\css\\feed.css",
       "PackagePath": "staticwebassets\\css\\feed.css"
     },
@@ -41,6 +45,10 @@
       "PackagePath": "staticwebassets\\images\\54331642772_05fa9ffe6b_o_dentro.jpg"
     },
     {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-25 154227.png",
+      "PackagePath": "staticwebassets\\images\\Captura de tela 2025-02-25 154227.png"
+    },
+    {
       "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\DevConnect 2.svg",
       "PackagePath": "staticwebassets\\images\\DevConnect 2.svg"
     },
@@ -67,6 +75,14 @@
     {
       "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\Verificado.png",
       "PackagePath": "staticwebassets\\images\\Verificado.png"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\WIN_20250220_14_21_29_Pro.jpg",
+      "PackagePath": "staticwebassets\\images\\WIN_20250220_14_21_29_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\WIN_20250610_15_22_53_Pro.jpg",
+      "PackagePath": "staticwebassets\\images\\WIN_20250610_15_22_53_Pro.jpg"
     },
     {
       "Id": "C:\\Users\\42113437856\\Desktop\\2S_DevConnect\\MVC\\DevConnectTorloni\\wwwroot\\images\\WhatsApp Image 2025-08-28 at 11.37.48.jpeg",
