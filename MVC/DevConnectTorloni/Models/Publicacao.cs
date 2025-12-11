@@ -20,8 +20,9 @@ public partial class Publicacao
     public string Descricao { get; set; } = null!;
 
     [Column("imagem_url")]
-    [StringLength(150)]
-    public string ImagemUrl { get; set; } = null!;
+    
+    [StringLength(2555)]
+    public string? ImagemUrl { get; set; }
 
     [Column("data_publicacao")]
     public DateOnly DataPublicacao { get; set; }

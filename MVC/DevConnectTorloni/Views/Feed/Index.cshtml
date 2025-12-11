@@ -1,165 +1,231 @@
-   <h1>Tela Feed - DevConnect</h1>
-   
-   <link rel="stylesheet" href="~/css/feed.css"/>
+@using Microsoft.IdentityModel.Tokens
+@model List<DevConnectTorloni.Models.Publicacao>
+@* chamamos a model na primeira linha da view pois vincula a model com a view, e utiliza as propiedades 
+da model atraves de atributos dos elementos, assim como tambem exibe valores dos atributos que representam um objeto *@
 
-    <header id="cabecalho">
-        <nav>
-            <a id="logo-desktop" href="./feed.html">
-                <img src="../images/DevConnect 2.svg" alt="Logo da empresa DevConnect">
+<link rel="stylesheet" href="~/css/feed.css" />
+
+<script defer>
+    const publicacaoNovaCadastrada = "@ViewBag.PublicacaoCadastrada";
+
+    if (publicacaoNovaCadastrada == "Nao Cadastrada") {
+        alert("Usuário não cadastrado! Tente novamente 😔");
+    }
+    else if (publicacaoNovaCadastrada == "Cadastrada") {
+        alert("Publicação postada...");
+    }
+
+</script>
+
+<h1>Tela Feed - DevConnect</h1>
+
+
+<header id="cabecalho">
+    <nav>
+        <a id="logo-desktop" href="./feed.html">
+            <img src="../images/DevConnect 2.svg" alt="Logo da empresa DevConnect">
+        </a>
+        <a id="logo-mobile" href="./feed.html">
+            <img src="../images/DevConnect 3.svg" alt="Logo da empresa DevConnect">
+        </a>
+
+        <div class="cabecalho-acoes">
+            <a href="./feed.html">
+                <img src="../images/botao casinha verde.svg" alt="Icone de uma casa na cor verde">
             </a>
-            <a id="logo-mobile" href="./feed.html">
-                <img src="../images/DevConnect 3.svg" alt="Logo da empresa DevConnect">
+
+            <a href="#">
+                <img src="../images/botao coracao verde.svg" alt="Icone de um coracao na cor verde">
             </a>
 
-            <div class="cabecalho-acoes">
-                <a href="./feed.html">
-                    <img src="../images/botao casinha verde.svg" alt="Icone de uma casa na cor verde">
-                </a>
+            <a href="./perfil.html">
+                <img class="foto-perfil" src="../images/1744867899-virginia-instagram.webp" alt="Foto de perfil">
+            </a>
 
+        </div>
+
+    </nav>
+</header>
+
+<main>
+    <div class="container-flex-publi">
+        <section id="storys" class="estilo-formulario">
+            <article class="card-story">
                 <a href="#">
-                    <img src="../images/botao coracao verde.svg" alt="Icone de um coracao na cor verde">
+                    <img src="../images/imagem-do-whatsapp-de-2024-09-19-a-s-16.30.53-0bc34827.avif"
+                        alt="Foto de perfil">
+                    <span>virginia</span>
                 </a>
-
-                <a href="./perfil.html">
-                    <img class="foto-perfil" src="../images/1744867899-virginia-instagram.webp" alt="Foto de perfil">
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/images.jpg" alt="Foto de perfil">
+                    <span>zefelipe</span>
                 </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/snapinsta.app-446916822-865475928953465-9143834970113523056-n-1080.avif"
+                        alt="Foto de perfil">
+                    <span>mariaalice</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/WhatsApp Image 2025-08-28 at 11.37.48.jpeg" alt="Foto de perfil">
+                    <span>joseleonardo</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/Rezende.webp" alt="Foto de perfil">
+                    <span>rezendeevil</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/54331642772_05fa9ffe6b_o_dentro.jpg" alt="Foto de perfil">
+                    <span>neymarjr</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/channels4_profile.jpg" alt="Foto de perfil">
+                    <span>wepink</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/images (1).jpg" alt="Foto de perfil">
+                    <span>viihtube</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/images (2).jpg" alt="Foto de perfil">
+                    <span>lucasguedez</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/Duda-Freire.jpg" alt="Foto de perfil">
+                    <span>dudafreire</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/images (3).jpg" alt="Foto de perfil">
+                    <span>tata</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/404607255_628367226174855_7419003782355206768_n.webp" alt="Foto de perfil">
+                    <span>leonardo</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/images (4).jpg" alt="Foto de perfil">
+                    <span>poliana</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/images (5).jpg" alt="Foto de perfil">
+                    <span>joaoguilherme</span>
+                </a>
+            </article>
+            <article class="card-story">
+                <a href="#">
+                    <img src="../images/images (6).jpg" alt="Foto de perfil">
+                    <span>larissamanoela</span>
+                </a>
+            </article>
 
-            </div>
+        </section>
 
-        </nav>
-    </header>
+        <section id="cadastro-publi" class="estilo-formulario">
+            <h2>Publicação</h2>
 
-    <main>
-        <div class="container-flex-publi">
-            <section id="storys" class="estilo-formulario">
-                <article class="card-story">
+            @* quando a view recebe via form os dados, enviamos para a controller *@
+
+            <form asp-action="Index" asp-controller="Feed" enctype="multipart/form-data">
+                <textarea name="Descricao" placeholder="Digite a descrição do post..." required></textarea>
+
+                <footer>
+                    <label id="texto-upload" for="campo-upload">Faça upload da sua imagem aqui...</label>
+                    <input type="file" name="Imagem" id="campo-upload">
+                    <button type="submit" class="formulario-botao-roxo">Postar</button>
+                </footer>
+                </footer>
+
+
+            </form>
+
+        </section>
+
+        <section id="publicacoes">
+        @foreach (Publicacao publi in Model)
+        {
+            if(!publi.ImagemUrl.IsNullOrEmpty()){
+            <article class="card-publi">
+                <header>
                     <a href="#">
-                        <img src="../images/imagem-do-whatsapp-de-2024-09-19-a-s-16.30.53-0bc34827.avif"
+                        <img class="foto-perfil" src="~/images/@publi.Usuario?.FotoPerfilUrl"
                             alt="Foto de perfil">
-                        <span>virginia</span>
+                        @publi.Usuario?.NomeUsuario
                     </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/images.jpg" alt="Foto de perfil">
-                        <span>zefelipe</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/snapinsta.app-446916822-865475928953465-9143834970113523056-n-1080.avif"
-                            alt="Foto de perfil">
-                        <span>mariaalice</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/WhatsApp Image 2025-08-28 at 11.37.48.jpeg" alt="Foto de perfil">
-                        <span>joseleonardo</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/Rezende.webp" alt="Foto de perfil">
-                        <span>rezendeevil</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/54331642772_05fa9ffe6b_o_dentro.jpg" alt="Foto de perfil">
-                        <span>neymarjr</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/channels4_profile.jpg" alt="Foto de perfil">
-                        <span>wepink</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/images (1).jpg" alt="Foto de perfil">
-                        <span>viihtube</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/images (2).jpg" alt="Foto de perfil">
-                        <span>lucasguedez</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/Duda-Freire.jpg" alt="Foto de perfil">
-                        <span>dudafreire</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/images (3).jpg" alt="Foto de perfil">
-                        <span>tata</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/404607255_628367226174855_7419003782355206768_n.webp" alt="Foto de perfil">
-                        <span>leonardo</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/images (4).jpg" alt="Foto de perfil">
-                        <span>poliana</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/images (5).jpg" alt="Foto de perfil">
-                        <span>joaoguilherme</span>
-                    </a>
-                </article>
-                <article class="card-story">
-                    <a href="#">
-                        <img src="../images/images (6).jpg" alt="Foto de perfil">
-                        <span>larissamanoela</span>
-                    </a>
-                </article>
+                </header>
 
-            </section>
+                <figure>
+                    <img class="imagem-publicacao" src="~/images/@publi.ImagemUrl" alt="">
 
-            <section id="cadastro-publi" class="estilo-formulario">
-                <h2>Publicação</h2>
-
-                <form action="">
-                    <textarea name="" id="" placeholder="Digite a descrição do post..."></textarea>
-
-                    <footer>
-                            <label id="texto-upload" for="campo-upload">Faça upload da sua imagem aqui...</label>
-                            <input type="file" id="campo-upload">
-                            <button type="submit" class="formulario-botao-roxo">Postar</button>
-                    </footer>
-                    </footer>
-
-
-                </form>
-
-            </section>
-
-            <section id="publicacoes">
-                <article class="card-publi">
-                    <header>
-                         <a href="#">
-                        <img class="foto-perfil" src="../images/1744867899-virginia-instagram.webp" alt="Foto de perfil">
+                    <figcaption class="descricao-publicacao">
                         floflobiuta
-                    </a>
+                        <p>@publi.Descricao</p>
+                    </figcaption>
+
+                    <div class="interacoes-publicacao">
+                        <button>
+                            <img src="../images/botao coracao verde.svg" alt="">
+                        </button>
+
+                        <button>
+                            <img src="../images/botao-comentario-verde.svg" alt="">
+                        </button>
+
+                        <span>897mil curtidas</span>
+
+                    </div>
+
+                </figure>
+
+                <button>Ver mais comentários...</button>
+
+            </article>
+
+            }
+
+            else 
+            {
+                <article class="card-publicacao">
+                    <header>
+                        <a href="#">
+                            <img class="foto-perfil" src="../images/1744867899-virginia-instagram.webp" alt="">
+
+                            floflobiuta
+
+                        </a>
                     </header>
 
                     <figure>
-                        <img class="imagem-publicacao" src="../images/familia-virginia-fonseca_widelg.jpg" alt="">
+                        <figcaption class="descricao-publicacao">
+                            <p class="texto-publi">Hoje fui para Dubai com minha família, nos divertimos muito. Brinquei bastante com meus
+                                irmãos!
+                                Foi muito divertido! Ganhei novos brinquedos, e conheci diversos lugares novos, fiquei
+                                muito feliz.</p>
 
-                    <figcaption class="descricao-publicacao">
-                            floflobiuta
-                            <p>Feliz Natal pessoal!</p>
                         </figcaption>
 
                         <div class="interacoes-publicacao">
@@ -171,18 +237,23 @@
                                 <img src="../images/botao-comentario-verde.svg" alt="">
                             </button>
 
-                            <span>897mil curtidas</span>
+                            <span>
+                                217mil curtidas
+                            </span>
 
                         </div>
 
                     </figure>
-
-                    <button>Ver mais comentários...</button>
+                
+                    <button type="button">Ver todos os comentários...</button>
 
                 </article>
-            </section>
+            }
+        }
+
+        </section>
 
 
-        </div>
+    </div>
 
-    </main>
+</main>
